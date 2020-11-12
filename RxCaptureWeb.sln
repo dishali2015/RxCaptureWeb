@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RxCaptureWeb", "RxCaptureWeb.csproj", "{D8949E8C-5EDC-4B79-8E97-670B990C839B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8949E8C-5EDC-4B79-8E97-670B990C839B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8949E8C-5EDC-4B79-8E97-670B990C839B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8949E8C-5EDC-4B79-8E97-670B990C839B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8949E8C-5EDC-4B79-8E97-670B990C839B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40566E61-7B4A-4A2A-B028-09D9A393A620}
+	EndGlobalSection
+EndGlobal
